@@ -2,7 +2,7 @@
 
 **Practical Harmony for Musicians** — a desktop workspace for scales, chords, tonal relationships, and MIDI-assisted exploration.
 
-> 🇫🇷 Vous parlez français ? Lisez la [version française](Readme.fr.md).
+> 🇫🇷 Vous parlez français ? Lisez la [version française](README.FR.MD).
 
 HarmoTools is a desktop application for musicians, composers, arrangers, and teachers who need practical tools for working with musical harmony.
 
