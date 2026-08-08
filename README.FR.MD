@@ -4,6 +4,8 @@
 
 > 🇬🇧 English speakers: read the [English version](README.MD).
 
+> Lisez la licence avant de télécharger ! [licence](LICENSE.MD)
+
 HarmoTools est une application de bureau destinée aux musiciens, compositeurs, arrangeurs et enseignants qui ont besoin d'outils pratiques pour travailler l'harmonie musicale.
 
 Le projet vise à offrir une interface claire pour explorer, comprendre et utiliser les concepts courants de la théorie musicale :
