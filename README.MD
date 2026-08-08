@@ -4,6 +4,8 @@
 
 > 🇫🇷 Vous parlez français ? Lisez la [version française](README.FR.MD).
 
+> Read the license before downloading! [licence](LICENSE.MD)
+
 HarmoTools is a desktop application for musicians, composers, arrangers, and teachers who need practical tools for working with musical harmony.
 
 The goal of the project is to provide a clear interface for exploring, understanding, and working with common music theory concepts:
