@@ -2,7 +2,7 @@
 
 **L'harmonie pratique pour les musiciens** — un espace de travail pour les gammes, les accords, les relations tonales et l'exploration assistée par MIDI.
 
-> 🇬🇧 English speakers: read the [English version](README.md).
+> 🇬🇧 English speakers: read the [English version](README.MD).
 
 HarmoTools est une application de bureau destinée aux musiciens, compositeurs, arrangeurs et enseignants qui ont besoin d'outils pratiques pour travailler l'harmonie musicale.
 
