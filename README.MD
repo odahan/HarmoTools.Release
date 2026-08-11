@@ -32,6 +32,11 @@ The goal of the project is to provide a clear interface for exploring, understan
 - **MIDI input** — play chords live from a MIDI controller.
 - **MIDI export** — progressions and sequences as Standard MIDI Files (type 0) you can drop straight into your DAW.
 
+## Site
+
+Le site HarmoTools vous montrera de nombreuses captures d'écran avec des explications, visitez-le !
+Le [site HarmoTools](https://www.e-naxos.com/harmotools/)
+
 ## Downloads
 
 Grab the latest binary from the **[Releases](https://github.com/odahan/HarmoTools.Release/releases)** page.
